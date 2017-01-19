@@ -1,4 +1,4 @@
-package com.qudeng.guava.splitter;
+package com.qudeng.guava.strings;
 
 import com.google.common.base.CharMatcher;
 import com.google.common.base.Splitter;

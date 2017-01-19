@@ -1,4 +1,4 @@
-package com.qudeng.guava.preconditions;
+package com.qudeng.guava.basic;
 
 import static com.google.common.base.Preconditions.*;
 

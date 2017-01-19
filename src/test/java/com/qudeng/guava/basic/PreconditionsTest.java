@@ -1,4 +1,4 @@
-package com.qudeng.guava.preconditions;
+package com.qudeng.guava.basic;
 
 import org.junit.Test;
 
